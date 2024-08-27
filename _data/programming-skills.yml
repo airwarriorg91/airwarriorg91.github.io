@@ -1,0 +1,35 @@
+- name: Python
+  percentage: 90
+  color: danger
+
+- name: MATLAB
+  percentage: 70
+  color: secondary
+
+- name: Fortran
+  percentage: 70
+  color: danger
+  
+- name: FreeFEM++
+  percentage: 70
+  color: secondary
+  
+- name: Julia
+  percentage: 50
+  color: danger
+  
+- name: C++
+  percentage: 50
+  color: secondary
+  
+- name: LaTeX
+  percentage: 80
+  color: danger
+  
+- name: GitHub
+  percentage: 50
+  color: warning
+
+- name: Linux
+  percentage: 50
+  color: info

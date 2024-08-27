@@ -1,0 +1,23 @@
+- name: Adobe Illustrator
+  percentage: 70
+  color: warning
+
+- name: Inkscape
+  percentage: 70
+  color: warning
+  
+- name: Scientific Writing
+  percentage: 70
+  color: info
+
+- name: Microsoft Powerpoint
+  percentage: 70
+  color: primary
+  
+- name: Microsoft Excel
+  percentage: 70
+  color: primary
+
+- name: GNUPlot
+  percentage: 70
+  color: success

@@ -1,0 +1,35 @@
+- name: SolidWorks
+  percentage: 70
+  color: warning
+
+- name: Autodesk Fusion 360
+  percentage: 80
+  color: warning
+  
+- name: GMSH
+  percentage: 80
+  color: info
+
+- name: Coreform Cubit
+  percentage: 80
+  color: info
+  
+- name: Paraview 
+  percentage: 80
+  color: primary
+  
+- name: NEK5000
+  percentage: 60
+  color: success
+
+- name: XCompact3D
+  percentage: 70
+  color: success
+
+- name: Ansys
+  percentage: 50
+  color: success
+  
+- name: High Performance Computing
+  percentage: 70
+  color: warning
